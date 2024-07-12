@@ -1,4 +1,4 @@
-## Not **_Your_** Mom 
+## 👩‍💻 Coding Momma
 
 Hi, I’m Ariel! A web developer turned stay-at-home mom who loves to keep coding amidst the chaos of motherhood. Whether it's during nap times, late nights, or early mornings, you'll find me working on fun and creative coding projects.
 
