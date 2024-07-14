@@ -18,6 +18,6 @@ Hi, I’m Ariel! A web developer turned stay-at-home mom who loves to keep codin
 
 I love learning new tools and technologies. Currently I am diving into:
 
-🌐 Ecommerce: Comparing Medusa.js to other platforms I have used like Shopify and BigCommerce
-🏗 Frameworks: Learning the ins and outs of Next.js 14
+- Ecommerce: Comparing Medusa.js to other platforms I have used like Shopify and BigCommerce 🌐 
+- Frameworks: Learning the ins and outs of Next.js 14 🏗 
  
