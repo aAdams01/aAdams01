@@ -1,6 +1,6 @@
 ## 👩‍💻 Dev Mom
 
-Hi, I’m Ariel! A web developer turned stay-at-home mom who loves to keep coding amidst the chaos of motherhood. Whether it's during nap time or after tucking the kids into bed, you'll find me working on fun and creative coding projects. I love learning new tools and technologies. 
+Hi, I’m Ariel -- a web developer turned stay-at-home mom who loves to code in my free time. Whether it's during nap time or after tucking the kids into bed, you'll find me working on another random project while trying to learn a new skill or two.
 
 ### 🌟 About Me
 
@@ -17,5 +17,6 @@ Hi, I’m Ariel! A web developer turned stay-at-home mom who loves to keep codin
 ### 🌱 Learning & Growing
 
 - Ecommerce: Comparing Medusa.js to other platforms I have used like Shopify and BigCommerce 🌐 
-- Frameworks: Learning the ins and outs of Next.js 14 🏗 
+- Frameworks: Learning the ins and outs of Next.js 14 🏗
+- DIY: Cement countertops for my 1960s bathroom 👷 
  
