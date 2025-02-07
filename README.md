@@ -1,3 +1,3 @@
 👩‍💻 Senior web developer & mom (not yours)
 
-🥤 Lover of Semantic HTML, JavaScript, and Diet Dr. Pepper
+🥤 Lover of semantic HTML, JavaScript, and diet Dr. Pepper
